@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 **New feature or functionality**
-What would you like Signadot to do?
+> What would you like Signadot to do?
 
 **Additional considerations**
-Anything in particular to think about regarding this new feature?
+> Anything in particular to think about regarding this new feature?
