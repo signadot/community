@@ -7,15 +7,15 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.  
+> A clear and concise description of what the bug is.  
 
 **To Reproduce**
-Steps to reproduce the behavior (including version, environment)
+> Steps to reproduce the behavior (including version, environment)
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+> A clear and concise description of what you expected to happen.
 
 **Observed behavior**
 
 **Additional context**
-Add any other context about the problem here.
+> Add any other context about the problem here.
